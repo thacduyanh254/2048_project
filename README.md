@@ -1,1 +1,3 @@
-# 2048_project
+# 2048 game in Java
+
+![screenshot](screen.png)
